@@ -1,3 +1,6 @@
+#2048-animated-React-App
+
+
 [Play it here](https://2048-animatedgame.netlify.app/)
 
 
@@ -72,3 +75,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 "# 2048-animated" 
+
+#Special Credits to Romain Cousin for his awesome design.
